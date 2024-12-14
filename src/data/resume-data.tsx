@@ -9,6 +9,7 @@ export const RESUME_DATA = {
   summary: <>I like building stuff.</>,
   avatarUrl: "https://avatars.githubusercontent.com/u/94720610?v=4",
   personalWebsiteUrl: "https://bndkts.com",
+  locationLink: "",
   contact: {
     email: "benedikt_1212@outlook.de",
     tel: "+48530213401",
